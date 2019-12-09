@@ -9,6 +9,8 @@ Clicking Netify button will clone this repository onto your github account and d
 ## Trying it out with GitPod
 [![Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod-redirect.herokuapp.com)
 
+After clicking the Netlify button, we can make changes in Gitpod.io IDE.
+
 To try out this project with gitpod, you can simply go to your Address Bar up :point_up: there, click inside, and add `gitpod.io/#` BEFORE the address already there. Gitpod will ask you to sign in with a GitHub id (you'll need to register if you haven't) and then it will create a full-fledged environment to play with this code. If everything works as planned, you should get a browser preview to the right automatically, and if you edit and save your code in `index.js` it should automatically refresh and show your changes. If it does not, for some reason, you an click the refresh icon at the top.
 
 If you want to PERMANENTLY SAVE your code, you should use GitHub to *fork* or *duplicate* this repository before you start GitPod. Then you'll be able to use the Source Control fetaures of this editor to *commit* and *push* your code to GitHub, saving it permanently in your own copy of this repository!
