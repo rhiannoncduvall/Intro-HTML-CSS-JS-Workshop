@@ -2,6 +2,10 @@
 
 In this project you have a simple, website with just 3 files.
 
+## Deploy Site
+[![Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/SoftStackFactory/Intro-HTML-CSS-JS-Workshop&_ga=2.132726478.1771004445.1575755421-843437191.1575755421)
+Clicking Netify button will clone this repository onto your github account and deploy this site onto the internet with netlify.
+
 ## Trying it out with GitPod
 [![Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod-redirect.herokuapp.com)
 
